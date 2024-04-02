@@ -29,6 +29,10 @@ npm run build
 git clone https://github.com/shanchangshuiyuan/threejs-examples-recurrent.git
 ```
 
+预览地址：
+
+[collision-games-fps.vercel.app](https://collision-games-fps.vercel.app/)
+
 效果如下：
 
 ![image-20240320204840352](https://gitee.com/zhouguangyi/image-upload-blog-in-typora/raw/master/image-20240320204840352.png)
